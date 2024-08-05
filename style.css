@@ -438,6 +438,7 @@ body {
     &:nth-child(odd) {
       background-color: #23f0ff;
     }
+
     &--1 {
       left: -2vmin;
       animation-delay: 1s;
@@ -658,7 +659,7 @@ body {
       right: 0%;
       width: 100%;
       height: 100%;
-     
+      //background-color: rgba(0, 0, 0, 0.6);
       filter: blur(1.5vmin);
       z-index: 100;
     }
