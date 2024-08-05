@@ -438,7 +438,6 @@ body {
     &:nth-child(odd) {
       background-color: #23f0ff;
     }
-
     &--1 {
       left: -2vmin;
       animation-delay: 1s;
